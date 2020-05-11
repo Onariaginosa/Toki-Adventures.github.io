@@ -6,7 +6,8 @@ The og creators were : Ameya Mellacheruvu, Michael Elias, and Ona Oghogho Igbine
 
 We wanted to use take the chance to recreate a project done before we knew much about programming and see how far we can develop it.
 
-The creators of this project is : Ona Oghogho Igbinedion, Keziah Camille Rezaey.
+The creators of this project is : Ona Oghogho Igbinedion, Keziah Camille Rezaey, Ameya Mellacheruvu, and Michael Elias
+
 
 
 
